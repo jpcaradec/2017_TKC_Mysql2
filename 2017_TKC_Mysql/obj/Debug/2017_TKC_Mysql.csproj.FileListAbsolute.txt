@@ -1,0 +1,10 @@
+C:\Users\Public\CARADEC Cronometragem\Programas\C#\2017_TKC_Mysql\2017_TKC_Mysql\bin\Debug\2017_TKC_Mysql.exe.config
+C:\Users\Public\CARADEC Cronometragem\Programas\C#\2017_TKC_Mysql\2017_TKC_Mysql\bin\Debug\2017_TKC_Mysql.exe
+C:\Users\Public\CARADEC Cronometragem\Programas\C#\2017_TKC_Mysql\2017_TKC_Mysql\bin\Debug\2017_TKC_Mysql.pdb
+C:\Users\Public\CARADEC Cronometragem\Programas\C#\2017_TKC_Mysql\2017_TKC_Mysql\obj\Debug\2017_TKC_Mysql.csprojResolveAssemblyReference.cache
+C:\Users\Public\CARADEC Cronometragem\Programas\C#\2017_TKC_Mysql\2017_TKC_Mysql\obj\Debug\_2017_TKC_Mysql.Form1.resources
+C:\Users\Public\CARADEC Cronometragem\Programas\C#\2017_TKC_Mysql\2017_TKC_Mysql\obj\Debug\_2017_TKC_Mysql.Properties.Resources.resources
+C:\Users\Public\CARADEC Cronometragem\Programas\C#\2017_TKC_Mysql\2017_TKC_Mysql\obj\Debug\2017_TKC_Mysql.csproj.GenerateResource.Cache
+C:\Users\Public\CARADEC Cronometragem\Programas\C#\2017_TKC_Mysql\2017_TKC_Mysql\obj\Debug\2017_TKC_Mysql.csproj.CoreCompileInputs.cache
+C:\Users\Public\CARADEC Cronometragem\Programas\C#\2017_TKC_Mysql\2017_TKC_Mysql\obj\Debug\2017_TKC_Mysql.exe
+C:\Users\Public\CARADEC Cronometragem\Programas\C#\2017_TKC_Mysql\2017_TKC_Mysql\obj\Debug\2017_TKC_Mysql.pdb
