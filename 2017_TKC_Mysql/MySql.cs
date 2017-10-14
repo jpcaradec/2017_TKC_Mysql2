@@ -8,19 +8,29 @@ namespace MySql
 {
     class BancodeDados
     {
-        private string IP;
-        private string Usuario;
-        private string Senha;
-        private string BD;
-
+        class Servidor
+        {
+            private string IP;
+            private string Usuario;
+            private string Senha;
+        }
+        
+        //Verifica acesso ao Servidor
         private bool VerificaBD(string ip, string usuario, string senha)
         {
-            
             return true;
         }
+
+        //Verifica se Servidor tem o Banco de Dados (bd)
         private bool VerificaBD(string ip, string usuario, string senha, string bd)
         {
 
+            return true;
+        }
+
+        //Cria bd no Servidor
+        private bool CriaBd(Servidor servidor)
+        {
             return true;
         }
     }
