@@ -32,6 +32,20 @@ namespace MySql
     }
     class Tabelas
     {
+        class tbl_tk //usada no momento
+        {
+            int id;
+            string tipo; //I = Info R=Resultado A=Aviso C=Cronograma
+            string num;
+            int pos;
+            int vts;
+            string ttime;
+            string texto;
+            int deleta;
+            string btime; //Best Time
+            int lt;
+        }
+
         class Info
         {
             //Campos
